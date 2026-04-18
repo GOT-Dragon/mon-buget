@@ -1,7 +1,7 @@
 {
   "name": "Mon Budget",
   "short_name": "Budget",
-  "start_url": "./index.html",
+  "start_url": "/mon-budget/",
   "display": "standalone",
   "background_color": "#f5f5f0",
   "theme_color": "#378add",
